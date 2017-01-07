@@ -8,7 +8,7 @@ This page presents a portfolio of projects related to Data Science and Analytics
 
 This project aims at infering which activity is performed by analysing the output of a smartphone sensors (accelerometer and gyrometer).
 
-The feature of the project are:
+The features of the project are:
 
 * R programming
 * Data Cleansing
