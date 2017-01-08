@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Data Science and Analytics Portfolio
 ---
 # Project Portfolio
