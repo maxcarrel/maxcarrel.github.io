@@ -20,5 +20,5 @@ An analysis based on the [Pump It Up DrivenData competition](https://www.drivend
 
 * Python programming (Jupyter Notbook)
 * Pandas and Scikit-learn
-* Multilevel classification using Logistic Regression
+* Multi-label classification using Logistic Regression
 * Hyperparameter Fitting using K-Fold Cross-Validation
