@@ -1,6 +1,3 @@
----
-
----
 # Project Portfolio
 
 This page presents a portfolio of projects related to Data Science and Analytics.
