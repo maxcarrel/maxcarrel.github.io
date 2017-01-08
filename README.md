@@ -18,7 +18,7 @@ The features of the project are:
 
 An analysis based on the [Pump It Up DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) aiming at predicting the maintenance requirement and functioning state of Tanzanian waterpoints. This project features:
 
-* Python programming (Jupyter Notbook)
-* Pandas and Scikit-learn
+* Python programming (Pandas and Scikit-learn)
+* Jupyter Notbook
 * Multi-label classification using Logistic Regression
 * Hyperparameter Fitting using K-Fold Cross-Validation
