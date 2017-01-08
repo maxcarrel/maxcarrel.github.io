@@ -1,24 +1,6 @@
-# Project Portfolio
 
-This page presents a portfolio of projects related to Data Science and Analytics.
+This is the personal web page of Max Carrel.
 
-## [Human Activity Recognition](https://github.com/maxcarrel/Human-Activity-Recognition)
-
-This project aims at infering which activity is performed by analysing the output of a smartphone sensors (accelerometer and gyrometer).
-
-The features of the project are:
-
-* R programming
-* Data Cleansing
-* Classification Tree
-* Random Forest
-* Hyperparameter Fitting using K-Fold Cross-Validation
-
-## *Upcoming:* Pump It Up
-
-An analysis based on the [Pump It Up DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) aiming at predicting the maintenance requirement and functioning state of Tanzanian waterpoints. This project features:
-
-* Python programming (Pandas and Scikit-learn)
-* Jupyter Notbook
-* Multi-label classification using Logistic Regression
-* Hyperparameter Fitting using K-Fold Cross-Validation
+* You can find me on [LinkedIn](https://ch.linkedin.com/in/max-carrel)
+* [Portfolio](portfolio.gmtl)
+* [Github account](https://github.com/maxcarrel)
