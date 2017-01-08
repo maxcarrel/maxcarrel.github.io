@@ -1,6 +1,7 @@
 ---
 site.title: Data Science Project Portfolio 
 site.description: Max Carrel
+permalink: portfolio.html
 ---
 
 # Project Portfolio
