@@ -1,6 +1,5 @@
 ---
-site.title: Data Science Project Portfolio 
-site.description: Max Carrel
+description: Data Science Project Portfolio 
 permalink: portfolio.html
 ---
 
