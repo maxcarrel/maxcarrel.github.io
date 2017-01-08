@@ -1,3 +1,6 @@
+---
+title: Data Science and Analytics Portfolio
+---
 # Project Portfolio
 
 This page presents a portfolio of projects related to Data Science and Analytics.
@@ -12,4 +15,13 @@ The features of the project are:
 * Data Cleansing
 * Classification Tree
 * Random Forest
+* Hyperparameter Fitting using K-Fold Cross-Validation
+
+## *Upcoming:* Pump It Up
+
+An analysis based on the [Pump It Up DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) aiming at predicting the maintenance requirement and functioning state of Tanzanian waterpoints. This project features:
+
+* Python programming (Jupyter Notbook)
+* Pandas and Scikit-learn
+* Multilevel classification using Logistic Regression
 * Hyperparameter Fitting using K-Fold Cross-Validation
