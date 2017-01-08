@@ -1,5 +1,4 @@
 ---
-description: Data Science Project Portfolio 
 permalink: portfolio.html
 ---
 
