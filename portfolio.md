@@ -18,7 +18,7 @@ The features of the project are:
 * Random Forest
 * Hyperparameter Fitting using K-Fold Cross-Validation
 
-## *Upcoming:* Pump It Up
+## [Pump It Up: Data Mining the Water Table](https://github.com/maxcarrel/pump-it-up)
 
 An analysis based on the [Pump It Up DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) aiming at predicting the maintenance requirement and functioning state of Tanzanian waterpoints. This project features:
 
