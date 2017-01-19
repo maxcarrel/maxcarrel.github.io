@@ -4,7 +4,7 @@ permalink: portfolio.html
 
 # Project Portfolio
 
-This page presents a portfolio of projects related to Data Science and Analytics. These projects can also be reached from [my github account](https://github.com/maxcarrel/).
+This page presents a portfolio of projects related to Data Science and Analytics. All of these projects are hosted on [my github account](https://github.com/maxcarrel/).
 
 ## [Human Activity Recognition](https://github.com/maxcarrel/Human-Activity-Recognition)
 
