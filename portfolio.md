@@ -27,10 +27,18 @@ An analysis based on the [Pump It Up DrivenData competition](https://www.drivend
 * Multi-label classification using Logistic Regression
 * Hyperparameter Fitting using K-Fold Cross-Validation
 
+## [Weight Lifting Analysis](https://github.com/maxcarrel/weight-lifting-analysis)
+
+This project presents an analysis of weight lifting exercises. It aims at detecting common execution mistakes based on-body sensor data. This project features:
+
+* Python programming
+* Apache Spark (DataFrame API) and MLlib
+* Machine learning pipelines
+* Random Forest with Hyperparameter Fitting
+
 ## *Upcoming:* DengAI: Predicting Disease Spread
 
 The goal of this project is predict the prevalence of the dengue fever in two cities (San Juan, Puerto Rico and Iquitos, Peru) based on environmental data collected by various U.S. Federal Agencies (Centers for Disease Control and Prevention and National Oceanic and Atmospheric Administration). This project is based on a [DrivenData competition](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) and features:
 
-* Python programming
-* Apache Spark (PySpark, DataFrame API)
-* Linear Regression
+* Time Series Analysis
+* Exponential Smoothing
