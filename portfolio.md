@@ -42,3 +42,4 @@ The goal of this project is predict the prevalence of the dengue fever in two ci
 
 * Time Series Analysis
 * Exponential Smoothing
+* ARIMA Models
