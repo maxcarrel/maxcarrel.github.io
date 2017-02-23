@@ -36,10 +36,9 @@ This project presents an analysis of weight lifting exercises. It aims at detect
 * Machine learning pipelines
 * Random Forest with Hyperparameter Fitting
 
-## *Upcoming:* DengAI: Predicting Disease Spread
+## *Upcoming:* Swiftkey Smart Keybord
 
-The goal of this project is predict the prevalence of the dengue fever in two cities (San Juan, Puerto Rico and Iquitos, Peru) based on environmental data collected by various U.S. Federal Agencies (Centers for Disease Control and Prevention and National Oceanic and Atmospheric Administration). This project is based on a [DrivenData competition](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) and features:
+This project aims at building a smart keyboard application that will make suggestions to the user as words are being typed. This projects includes:
 
-* Time Series Analysis
-* Exponential Smoothing
-* ARIMA Models
+* Natural Language Processing
+* N-grams Modelling
